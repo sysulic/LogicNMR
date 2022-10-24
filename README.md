@@ -2,12 +2,9 @@
 
 ### The Description of LogicNMR Dataset.
 Each sample in LogicNMR consists of the following components:
-Sample_number： The sample number. 
-
-Origin_Facts: The fact sets in initial knowledge base.
-
-Default_Rules: The default rule sets in initial knowledge base.
-
+Sample_number： The sample number. <br />
+Origin_Facts: The fact sets in initial knowledge base.<br />
+Default_Rules: The default rule sets in initial knowledge base.<br />
 Update_Facts: The updated fact sets.
 
 Noise_Facts: The noise fact sets.
